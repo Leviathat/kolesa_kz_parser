@@ -3,7 +3,7 @@ Kolesa parsing app, all you have to do is throw link into URL variable, then app
 
 Install these two dependencies:
 
-pip install -r requirements.txt
+	pip install -r requirements.txt
 
 Your link must contain some 'https://kolesa.kz/cars/' url tree
 
